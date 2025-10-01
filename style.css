@@ -261,8 +261,8 @@ html {
 
 /* About Section */
 #about {
-    padding-top: 2rem; /* prevents overlap after hero */
-    background: #fff; /* ensures clean separation */
+    padding-top: 2rem;
+    background: var(--bg-color);
 }
 
 .about-content {
